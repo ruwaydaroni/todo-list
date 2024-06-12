@@ -1,0 +1,1 @@
+document.addEventListener/domcontentloaded;loadtasks);
